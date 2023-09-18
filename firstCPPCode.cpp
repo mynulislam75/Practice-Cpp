@@ -10,7 +10,7 @@ int createVAriable(int a, int b)
     cout << getNum << "\n";
     int calcSum = a + b;
     cout << calcSum;
-    return 0;300
+    return 0;
 };
 
 int main()
